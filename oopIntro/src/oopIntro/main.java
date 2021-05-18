@@ -45,11 +45,9 @@ public class main {
 		
 		productManager.addToCart(product3);
 		
-		
-		
+				
 		
 		
 	}
 
 }
- 

@@ -4,7 +4,7 @@ public class Product {
 	
 	
 	public Product() {
-		System.out.println("ben çalýþtým");
+		System.out.println("ben calistim");
 	}
 	
 	public Product(int id,String name,double unitPrice,String detail) {
@@ -26,7 +26,3 @@ public class Product {
 	double unitPrice;
 	String detail;
 }
-
-
-
-
