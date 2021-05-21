@@ -24,10 +24,6 @@ public class Main {
 		customerManager.addMultiple(customers);
 		
 		
-		
-		
-		
-		
 	}
 
 }
